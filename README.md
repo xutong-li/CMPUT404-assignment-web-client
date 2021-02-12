@@ -9,6 +9,12 @@ Make a simple web-client like curl or wget
 
 Contributors / Licensing
 ========================
+Assignment Collaboration:  
+(Team Members)  
+Kay Song (qsong),  
+Peiran Yu (pyu),  
+Yanlin Chen (yanlin2),  
+Dongheng Li (dongheng).  
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle, 
 https://github.com/tywtyw2002, and https://github.com/treedust
